@@ -1,0 +1,2 @@
+Hello, this is feature 2 sample file
+This is the new line i have added
